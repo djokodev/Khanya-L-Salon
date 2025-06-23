@@ -1,0 +1,44 @@
+User-agent: *
+Allow: /
+
+# Fichiers importants pour le SEO
+Allow: /logo.jpg
+Allow: /espace_interne.jpg
+Allow: /reception.jpg
+Allow: /vue_exterieure.jpg
+Allow: /ongles*.jpg
+Allow: /style.css
+Allow: /script.js
+Allow: /site.webmanifest
+
+# Interdire les fichiers temporaires et de test
+Disallow: /test.html
+Disallow: /*.tmp
+Disallow: /temp/
+Disallow: /cache/
+
+# Sitemap
+Sitemap: https://khanya-l-salon.vercel.app/sitemap.xml
+
+# Délai entre les requêtes (en secondes)
+Crawl-delay: 1
+
+# Informations spécifiques pour Googlebot
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Informations spécifiques pour Bingbot
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 2
+
+# Informations pour les réseaux sociaux
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: / 

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square70x70logo src="logo.jpg"/>
+            <square150x150logo src="logo.jpg"/>
+            <square310x310logo src="logo.jpg"/>
+            <wide310x150logo src="logo.jpg"/>
+            <TileColor>#D4A574</TileColor>
+        </tile>
+        <badge>
+            <polling-uri src="https://khanya-l-salon.vercel.app/"/>
+            <frequency>30</frequency>
+        </badge>
+        <notification>
+            <polling-uri src="https://khanya-l-salon.vercel.app/"/>
+            <frequency>30</frequency>
+            <cycle>1</cycle>
+        </notification>
+    </msapplication>
+</browserconfig> 

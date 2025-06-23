@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  
+  <!-- Page principale -->
+  <url>
+    <loc>https://khanya-l-salon.vercel.app/</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    
+    <!-- Images importantes pour le SEO -->
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/logo.jpg</image:loc>
+      <image:title>Khanya L Salon - Logo salon de beauté haut de gamme Douala</image:title>
+      <image:caption>Logo officiel du salon de beauté Khanya L à Douala Bonapriso</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/espace_interne.jpg</image:loc>
+      <image:title>Intérieur luxueux Khanya L Salon Douala</image:title>
+      <image:caption>Espace intérieur moderne et luxueux du salon de beauté</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/reception.jpg</image:loc>
+      <image:title>Réception Khanya L Salon Douala Bonapriso</image:title>
+      <image:caption>Réception moderne et élégante du salon</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/vue_exterieure.jpg</image:loc>
+      <image:title>Vue extérieure Khanya L Salon Douala</image:title>
+      <image:caption>Façade extérieure du salon de beauté à Bonapriso</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/ongles_en_soins.jpg</image:loc>
+      <image:title>Soins ongles professionnels Khanya L Salon</image:title>
+      <image:caption>Séance de soins des ongles professionnel</image:caption>
+    </image:image>
+    
+    <!-- Galerie d'ongles -->
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/ongles1.jpg</image:loc>
+      <image:title>Nail art créatif Douala - Manucure artistique Khanya L Salon</image:title>
+      <image:caption>Design nail art premium et personnalisé</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/ongles2.jpg</image:loc>
+      <image:title>Manucure française élégante Douala - French nail art professionnel</image:title>
+      <image:caption>Manucure française classique et élégante</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/ongles3.jpg</image:loc>
+      <image:title>Pédicure soins pieds Douala - Nail art orteils créatif</image:title>
+      <image:caption>Pédicure luxueuse avec soin complet des pieds</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/ongles4.jpg</image:loc>
+      <image:title>Vernis premium gel Douala - Manucure longue tenue</image:title>
+      <image:caption>Design artistique avec vernis gel premium</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/ongles5.jpg</image:loc>
+      <image:title>Nail art sophistiqué Douala - Manucure haut de gamme</image:title>
+      <image:caption>Style sophistiqué avec finition parfaite</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/ongles6.jpg</image:loc>
+      <image:title>Manucure colorée créative Douala - Nail art moderne</image:title>
+      <image:caption>Couleurs vibrantes et expression artistique</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/ongles7.jpg</image:loc>
+      <image:title>Design ongles élégant Douala - Nail art raffiné</image:title>
+      <image:caption>Élégance pure et raffinement absolu</image:caption>
+    </image:image>
+    
+    <image:image>
+      <image:loc>https://khanya-l-salon.vercel.app/ongles8.jpg</image:loc>
+      <image:title>Nail art luxueux Douala - Manucure premium</image:title>
+      <image:caption>Luxe absolu et perfection incarnée</image:caption>
+    </image:image>
+  </url>
+  
+  <!-- Sections spécifiques (ancres) -->
+  <url>
+    <loc>https://khanya-l-salon.vercel.app/#about</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://khanya-l-salon.vercel.app/#services</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  
+  <url>
+    <loc>https://khanya-l-salon.vercel.app/#gallery</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://khanya-l-salon.vercel.app/#contact</loc>
+    <lastmod>2025-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset> 
